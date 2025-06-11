@@ -1,7 +1,1 @@
-# .gitignore
-node_modules
-.next
-out
-.env
-.DS_Store
-*.log
+node_modules/
